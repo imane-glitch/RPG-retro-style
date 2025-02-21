@@ -1,1 +1,1 @@
-# projet-RPG-retro-style
+# RPG-retro-style
